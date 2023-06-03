@@ -8,6 +8,7 @@ import 'package:image_picker/image_picker.dart';
 import 'cur_convertor.dart';
 
 void main() {
+  print("Hello Testing");
   runApp(MaterialApp(
     home: Cur_Con(),
   ));
