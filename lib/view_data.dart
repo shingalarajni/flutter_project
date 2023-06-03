@@ -25,6 +25,7 @@ class _View_RecordState extends State<View_Record> {
 
   @override
   Widget build(BuildContext context) {
+    print("hi...");
     return Scaffold(
       appBar: AppBar(
         title: Text("View Contact"),

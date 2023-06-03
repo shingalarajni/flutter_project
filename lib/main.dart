@@ -9,6 +9,7 @@ import 'cur_convertor.dart';
 
 void main() {
   print("Hello Testing");
+  print("good morning");
   runApp(MaterialApp(
     home: Cur_Con(),
   ));
